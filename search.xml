@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Who am i?</title>
+      <link href="/2019/05/26/Who-am-i/"/>
+      <url>/2019/05/26/Who-am-i/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight py"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#!/usr/bin/env python</span></span><br><span class="line"><span class="comment"># coding=utf-8</span></span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">My</span><span class="params">(object)</span>:</span></span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">whoami</span><span class="params">()</span>:</span></span><br><span class="line">        print(<span class="string">"I am Gu3vara: "</span>)</span><br><span class="line">        print(<span class="string">"    ---360@College Student"</span>)</span><br><span class="line">        print(<span class="string">"    ---I'am Studying Hak"</span>)</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">whatIdo</span><span class="params">()</span>:</span></span><br><span class="line">        print(<span class="string">"My Hero is Swing@ChangTing"</span>)</span><br><span class="line">        print(<span class="string">"Active in CTF, Web/AI "</span>)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">My.whoami()</span><br><span class="line">My.whatIdo()</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
